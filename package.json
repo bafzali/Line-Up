@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/estep12/Project-2.git"
+    "url": "git+https://github.com/bafzali/Line-Up.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/estep12/Project-2/issues"
+    "url": "https://github.com/bafzali/Line-Up/issues"
   },
-  "homepage": "https://github.com/estep12/Project-2#readme",
+  "homepage": "https://github.com/bafzali/Line-Up#readme",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
